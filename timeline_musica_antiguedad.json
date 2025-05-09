@@ -1,0 +1,111 @@
+{
+  "title": {
+    "text": {
+      "headline": "Música en la Antigüedad y Edad Media",
+      "text": "Basado en el folleto MUS220 (págs. 11–14)"
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": "100",
+        "display_date": "Siglos I - II"
+      },
+      "end_date": {
+        "year": "200"
+      },
+      "text": {
+        "headline": "Inicios del canto cristiano",
+        "text": "Desarrollo inicial del canto cristiano influenciado por la música griega. Uso de salmos en ágapes (banquetes conmemorativos)."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Codex_Verdensis_fol_5v.jpg/800px-Codex_Verdensis_fol_5v.jpg",
+        "caption": "Manuscrito cristiano antiguo"
+      }
+    },
+    {
+      "start_date": {
+        "year": "300",
+        "display_date": "Siglo III"
+      },
+      "text": {
+        "headline": "Práctica monástica y salmodia",
+        "text": "Comienzo de la vida monástica. San Antonio es el principal referente. Se adopta la salmodia en liturgias."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/San_Antonio_Abad.jpg/640px-San_Antonio_Abad.jpg",
+        "caption": "San Antonio Abad"
+      }
+    },
+    {
+      "start_date": {
+        "year": "400",
+        "display_date": "Siglo IV"
+      },
+      "text": {
+        "headline": "Oficialización de la música litúrgica",
+        "text": "Se oficializan los oficios monásticos. La iglesia se convierte en la preservadora de la cultura musical tras la caída del Imperio Romano."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Monte_Cassino_Abbey_-_monastery_view_1.jpg/640px-Monte_Cassino_Abbey_-_monastery_view_1.jpg",
+        "caption": "Monasterio medieval"
+      }
+    },
+    {
+      "start_date": {
+        "year": "500",
+        "display_date": "Siglos V - VI"
+      },
+      "text": {
+        "headline": "Fusión de teoría griega y pensamiento cristiano",
+        "text": "Enciclopedistas como Marciano Capella, Casiodoro, Isidoro de Sevilla y Boecio integran teorías musicales griegas en el pensamiento cristiano."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Boethius_initial_consolation_philosophy.jpg/640px-Boethius_initial_consolation_philosophy.jpg",
+        "caption": "Boecio, enciclopedista"
+      }
+    },
+    {
+      "start_date": {
+        "year": "600",
+        "display_date": "Siglo VII"
+      },
+      "text": {
+        "headline": "Canto Ambrosiano",
+        "text": "San Ambrosio introduce el canto responsorial en occidente. Se desarrolla el canto ambrosiano en Milán."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ambrosian_chant_example.png/640px-Ambrosian_chant_example.png",
+        "caption": "Ejemplo de canto ambrosiano"
+      }
+    },
+    {
+      "start_date": {
+        "year": "750",
+        "display_date": "Siglo VIII"
+      },
+      "text": {
+        "headline": "Canto Galicano y Mozárabe",
+        "text": "En la Galia se impone el canto romano, desplazando al galicano. En España, se desarrolla el canto mozárabe bajo dominio musulmán."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Mozarabic_chant_example.png/640px-Mozarabic_chant_example.png",
+        "caption": "Canto mozárabe"
+      }
+    },
+    {
+      "start_date": {
+        "year": "800",
+        "display_date": "Siglos VIII - IX"
+      },
+      "text": {
+        "headline": "Consolidación del Canto Gregoriano",
+        "text": "Carlomagno impulsa la estandarización del canto romano (gregoriano) en su imperio. Llegan cantores desde Roma."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Graduale_Aboense_14.jpg/640px-Graduale_Aboense_14.jpg",
+        "caption": "Canto gregoriano"
+      }
+    }
+  ]
+}
